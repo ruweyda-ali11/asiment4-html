@@ -1,0 +1,265 @@
+.div1{
+    background-color: rgb(63, 11, 116);
+    padding: 10px;
+    top: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+    list-style: none;
+    
+    
+    
+}
+.div1 a{
+    color: rgb(207, 201, 201);
+    text-decoration: none;
+}
+
+.page{
+    /* background-color: rgb(241, 227, 227); */
+}
+
+.logo{
+  background-color:aliceblue;
+  margin-right: 100px;
+  size:2;
+  width: 199px;;
+  margin-top: 4px;
+}
+.nav1{
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    margin-left: 240px;
+    display: flex;
+    text-decoration: none; 
+    top: 50px;
+}
+
+/* .nav{
+    text-decoration: none;
+    align-items: center;
+    margin-left: 240px;
+    display: flex;
+    text-decoration: none;
+    top: 50px;
+} */
+#btn0{
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 15px;
+    background-color: brown;
+}
+#btn00{
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.nav1 a{
+   color: rgb(110, 47, 89); 
+   text-decoration: none;
+   list-style: none;
+}
+nav li a{
+    text-decoration: none;
+
+}
+.cal{
+   font-size: 0px; 
+}
+.kk{
+    width: 35px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.dhex{
+    background-color: rgb(21, 44, 173);
+    
+    size: 10px;
+   padding: 1;
+    margin-left: 50px;
+
+}
+.hy{
+    color: rgba(243, 232, 232, 0.979);
+    margin-left: 50px;
+    margin-bottom: 200px;
+    align-items: center;
+}
+.pro{
+    font-size: 20px;
+    color: green;
+    margin-top: 5px;
+    border-bottom: 50px;
+    margin-top: 15px;
+}
+.pro cent domain names{
+color:green;
+border-bottom: 50px;
+}
+.bac{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+#qoral{
+    color: rgb(172, 172, 189);
+    font-size: 20px;
+}
+
+/* .enter{
+    padding: 50px;
+    font-size: 15px;
+     */
+
+#en{
+    padding: 10px;
+    padding-left: 40px;
+    margin-left: 200px;
+    margin-top: 20px;
+
+}
+ #btn{
+ padding: 10px; 
+ padding-left: 10px;
+ background-color: orangered;
+margin-top: 10px;
+} 
+.qoral2{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(84, 94, 102);
+}
+#botton{
+    border: 50px;
+    color: rgb(7, 146, 100);
+    
+    padding: 10px;
+    background: wheat;
+    font-size: 20px;
+    border-bottom: 5px;
+}
+
+.box{
+font-size: 25px;
+font-weight: bold;
+margin-left: 30px;
+height: 200px;
+width: 200px;
+border: 1px solid brown;
+margin-top: 10px;
+box-shadow: 0 0 14px 2px rgb(180, 178, 172);
+margin-left: 20px;
+width: 300px;
+height: 200px;
+justify-content: space-around;
+float: left;
+}
+store :hover{
+    color:green;
+}
+#btn2{
+    background-color: brown;
+    border-radius: 5px;
+    color: white;
+    margin-left: 50px;
+}
+.box2{
+    margin-left: 40px;
+}
+.war{
+    font-size: 15px;
+    color: grey;
+}
+.dolr{
+font-size: 15px;
+color: grey;
+text-align: center;
+}
+.disco{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+#b3{
+    background-color: brown;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-right: 180px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 150px;
+  
+}
+#hoos{
+    font-size: 30px;
+    font-style: bold;
+    text-align: center;
+    color: rgb(107, 112, 107);
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+.qor{
+    color: rgb(63, 49, 49);
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    
+}
+#saw{
+    size: 5px;
+height: 500px;
+width: 500px;
+top: center;
+margin-left: 340px;
+}
+.ico{
+    margin-right: 290px;
+}
+.pp{
+    margin-left: 40px;
+    margin-bottom: 200px;
+    color: blue;
+    font-size: 13px;
+    list-style-type: none;
+}
+.q{
+    font-size: 15px;
+    text-align: center;
+}
+.get{
+    font-size: 20px;
+    font-weight: bold;
+    color: gray;
+    margin-right: 300px;
+}
+.ggg{
+    width: 300px;
+    height: 100px;
+    font-size: 25px;
+    color: gray;
+    font-weight: bold;
+    justify-content: space-around;
+float: left;
+display:flex;
+
+}
+.gy{
+    font-size: 15px;
+}
+.s2{
+  width: 400px;
+  height: 200px;
+  margin-left: 100px;
+    font-size:25px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+.mein2{
+    padding: 20px;
+    
+    margin-right: 350px;
+}
